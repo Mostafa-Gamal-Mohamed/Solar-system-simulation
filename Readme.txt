@@ -19,3 +19,4 @@ You can Run app without use unity Engine
 
     open Build file
     there are exe file for windows
+
